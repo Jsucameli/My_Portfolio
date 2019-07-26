@@ -1,0 +1,23 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "https://jsucameli.github.io/My_Portfolio/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jsucameli/My_Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jsucameli/My_Portfolio/issues"
+  },
+  "homepage": "https://github.com/Jsucameli/My_Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
